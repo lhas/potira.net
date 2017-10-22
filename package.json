@@ -1,0 +1,19 @@
+{
+  "name": "potira",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lhas/potira.net.git",
+  "author": "Luiz Henrique Almeida da Silva <luizhrqas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "material-ui": "^1.0.0-beta.17",
+    "next": "^4.1.3",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
